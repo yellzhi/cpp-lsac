@@ -1,5 +1,5 @@
 
-> formerly known as _cpp-ethereum_ project.
+> formerly known as _cpp-bearchain_ project.
 
 
 ## Building from source
